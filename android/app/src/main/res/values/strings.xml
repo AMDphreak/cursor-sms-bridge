@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cursor SMS Bridge</string>
+    <string name="status_not_paired">Not paired</string>
+    <string name="scan_qr">Scan desktop QR</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="save_allowlist">Save allowlist</string>
+    <string name="allowlist_hint">Allowed numbers (comma-separated E.164). Leave empty to forward all.</string>
+    <string name="allowlist_saved">Allowlist saved</string>
+    <string name="forward_all_hint">Forwarding all senders until you add an allowlist.</string>
+    <string name="forward_filtered_hint">Only allowlisted numbers are forwarded.</string>
+    <string name="paired_to">Paired to %1$s:%2$d</string>
+    <string name="camera_required">Camera permission is required to scan the desktop QR code.</string>
+    <string name="invalid_pairing_payload">Could not parse pairing QR/payload.</string>
+    <string name="paired_success">Paired with %1$s:%2$d</string>
+    <string name="manual_pair">Pair from pasted payload</string>
+    <string name="manual_payload_hint">Paste JSON from desktop terminal</string>
+    <string name="desktop_relay">Desktop relay</string>
+</resources>
