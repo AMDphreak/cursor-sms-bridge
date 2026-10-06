@@ -36,3 +36,8 @@ Thumbs.db
 
 # Runtime data
 desktop/data/
+!/.github/
+!/.github/workflows/
+!/.github/workflows/encoding-guard.yml
+!/.editorconfig
+!/.gitattributes
